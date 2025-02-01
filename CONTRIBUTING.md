@@ -9,15 +9,20 @@ I welcome all contributions, whether it's code, documentation, or just good vibe
 
 1️⃣ Fork the Repository
 Click the Fork button at the top-right of this repo to create your own copy.
+
 2️⃣ Clone Your Fork
+
 3️⃣ Create a Branch
+
 4️⃣ Make Your Changes
 Add features
 Improve documentation
 Fix bugs 🐞
 Refactor code
 Suggest improvements
+
 5️⃣ Commit Your Changes
+
 6️⃣ Push and Create a Pull Request
 Then, open a Pull Request (PR) on GitHub!
 
